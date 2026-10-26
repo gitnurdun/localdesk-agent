@@ -1,0 +1,16 @@
+{
+  "name": "localdesk-agent",
+  "version": "0.2.0",
+  "private": true,
+  "type": "module",
+  "description": "A local, tool-using Ollama agent with bounded context and file-backed memory",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "start": "node src/cli.mjs serve",
+    "chat": "node src/cli.mjs chat",
+    "doctor": "node src/cli.mjs doctor",
+    "test": "node --test test/*.test.mjs",
+    "eval": "node scripts/evaluate.mjs",
+    "eval:app": "node scripts/live-app-evaluate.mjs"
+  }
+}

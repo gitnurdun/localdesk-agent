@@ -1,0 +1,8 @@
+{
+  "name":"Source-grounded answers",
+  "description":"Answer from retrieved documents with clear sources and limits.",
+  "triggers":["according to","cite sources","根据资料"],
+  "modes":["chat","work"],
+  "toolGroups":["research"],
+  "enabled":true
+}

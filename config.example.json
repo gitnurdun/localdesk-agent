@@ -1,0 +1,20 @@
+{
+  "model": "qwen3:1.7B",
+  "ollamaUrl": "http://127.0.0.1:11434",
+  "contextTokens": 8192,
+  "outputTokens": 1200,
+  "temperature": 0,
+  "think": false,
+  "keepAlive": "10m",
+  "maxSteps": 18,
+  "workerSteps": 8,
+  "maxDelegations": 3,
+  "taskTimeoutSeconds": 420,
+  "requestTimeoutSeconds": 120,
+  "workspace": "workspace",
+  "readRoots": [],
+  "writeRoots": [],
+  "fetchHosts": [],
+  "port": 4317,
+  "recipes": {}
+}

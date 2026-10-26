@@ -1,0 +1,8 @@
+{
+  "name":"Precise file work",
+  "description":"Make focused file changes and verify requested outputs.",
+  "triggers":["edit file","replace text","修改文件"],
+  "modes":["work"],
+  "toolGroups":["files"],
+  "enabled":true
+}

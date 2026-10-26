@@ -1,0 +1,14 @@
+{
+  "name": "Brief answers",
+  "description": "Keep simple replies to one concise sentence.",
+  "triggers": [
+    "brief reply"
+  ],
+  "modes": [
+    "chat",
+    "work"
+  ],
+  "toolGroups": [],
+  "enabled": true,
+  "updatedAt": "2026-10-10T03:11:14.277Z"
+}

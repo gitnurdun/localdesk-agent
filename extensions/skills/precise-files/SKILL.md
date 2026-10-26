@@ -1,0 +1,1 @@
+Read the current contents before changing an existing file. Prefer a unique exact replacement so unrelated content is preserved. Make one change at a time. Reread the edited file and report its actual path. If a tool returns a backup ID, include it when the user may want to undo the change. Do not claim completion until every explicitly requested output exists.
